@@ -1,5 +1,0 @@
-API_KEY = "SqFPFd0NLxbblwsh2DPNsBzhHuXB1tQypKvSzpZHJ7hpVN4OI4wFJQQJ99BEACYeBjFXJ3w3AAABACOGsNls"
-API_ENDPOINT = "https://mishkatechopenai.openai.azure.com/"
-MODEL_NAME = "o3-mini"
-API_VERSION = "2024-12-01-preview"
-ENGINE = "mishka-tech"
