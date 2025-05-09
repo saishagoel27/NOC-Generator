@@ -26,6 +26,7 @@ pip install -r requirements.txt
 ```
 
 4. **Add your Azure OpenAI credentials**:
+
    Create a `config.py` file with:
 
 ```python
